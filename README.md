@@ -6,7 +6,12 @@ Use the README.md file to provide a few sentences and/or bullet points outlining
 Write the README.md file with proper markdown so that it renders nicely
 Have a README.md file (with that name exactly) in the main directory of your group's repo
 Use the README.md file to provide a few sentences and/or bullet points outlining the goals of your project (at least 100 words)
-Write the README.md file with proper markdown so that it renders nicely
-Have a README.md file (with that name exactly) in the main directory of your group's repo
-Use the README.md file to provide a few sentences and/or bullet points outlining the goals of your project (at least 100 words)
-Write the README.md file with proper markdown so that it renders nicely
+
+Why this is not long enough??
+So weird.
+Let me add more nonsense words!
+
+Weather forecast said it's gonna be snow one hour later. It's 8:45pm now, very cold outside. 
+And I realized that winter has come. 
+
+
