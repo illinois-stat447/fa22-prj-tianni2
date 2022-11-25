@@ -1,17 +1,8 @@
-This file maily contains the new project descriptions and targets. 
-While I haven’t made up my decision for the main topic of this project, so I am writing some nonsense words to pass the quiz. 
-Later I will update on this file about the project descriptions once I made up my decision.
-Have a README.md file (with that name exactly) in the main directory of your group's repo
-Use the README.md file to provide a few sentences and/or bullet points outlining the goals of your project (at least 100 words)
-Write the README.md file with proper markdown so that it renders nicely
-Have a README.md file (with that name exactly) in the main directory of your group's repo
-Use the README.md file to provide a few sentences and/or bullet points outlining the goals of your project (at least 100 words)
+Data: The dataset for this project would be the bike-sharing dataset coming from UCI,https://archive-beta.ics.uci.edu/dataset/275/bike+sharing+dataset. The dataset contained hourly and daily collected count of rental bikes from bike rental systems records of 2011-2022. More than that, it also contains temperature, humidity, whether its weekend/weekday/holiday, wind speed and other factors which may think of as influencers of rental bike count. 
 
-Why this is not long enough??
-So weird.
-Let me add more nonsense words!
+Target: Main target of this project is to investigate most important factors which might influence the count of rental bikes and their effect. 
 
-Weather forecast said it's gonna be snow one hour later. It's 8:45pm now, very cold outside. 
-And I realized that winter has come. 
+Process: ain process might be, data visualization -- data preprocessing -- model training -- results integration. 
 
+(I will lately upload the dataset I would use for this project and also the readme.md of the dataset which include the data info and attribute details for better understanding.)
 
